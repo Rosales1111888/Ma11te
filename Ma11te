@@ -1,0 +1,7 @@
+Echo "# Ma11te" >> README.md
+Git init
+git add README.md
+git commit -m "primer commit"
+git branch -M principal
+git remote add origin https://github.com/Rosales111888/Ma11te.git
+git push -u origen principal
